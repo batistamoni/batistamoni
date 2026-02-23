@@ -1,4 +1,75 @@
-## Hi there 👋
+# Hola, soy Mónica 👋
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=batistamoni&show_icons=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistamoni&layout=compact&theme=transparent" height="165">
+</p>
+
+Estudiante de Desarrollo de Aplicaciones Web (DAW) y futura desarrolladora full-stack.
+
+Actualmente estoy aprendiendo y construyendo proyectos con tecnologías web.
+
+---
+
+## 🚀 Proyecto principal
+
+### PodTime
+
+Aplicación web para organizar y seguir podcasts.
+
+Funcionalidades:
+- Guardar podcasts
+- Marcar episodios como escuchados
+- Ver progreso de escucha
+- Buscador y filtros
+
+Tecnologías:
+
+HTML  
+CSS  
+JavaScript  
+PHP  
+MySQL
+
+Repositorio:
+https://github.com/batistamoni/podtime
+
+---
+
+## 🛠 Tecnologías
+
+Frontend  
+HTML · CSS · JavaScript
+
+Backend  
+PHP · Java · C#
+
+Base de datos  
+MySQL
+
+Herramientas  
+Git · GitHub · Figma · XAMPP
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Arquitectura backend en PHP
+- Mejores prácticas de bases de datos
+- Desarrollo de aplicaciones web completas
+
+---
+
+## 🎯 Objetivo 2026
+
+Conseguir mi primera experiencia profesional como desarrolladora web.
+
+---
+
+## 📫 Contacto
+
+Email  
+fernandesbatistamoni@gmail.com
 
 <!--
 **batistamoni/batistamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
