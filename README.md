@@ -1,9 +1,10 @@
 # Hola, soy Mónica 👋
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=batistamoni&show_icons=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistamoni&layout=compact&theme=transparent" height="165">
-</p>
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=batistamoni&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistamoni&layout=compact)
 
 Estudiante de Desarrollo de Aplicaciones Web (DAW) y futura desarrolladora full-stack.
 
