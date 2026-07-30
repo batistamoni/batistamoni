@@ -1,84 +1,58 @@
 # Hola, soy Mónica 👋
 
-🚀 Actualmente construyendo: **[PodTime](https://github.com/batistamoni/podtime)**
+**Desarrolladora Web** · Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
 
-Estudiante de Desarrollo de Aplicaciones Web (DAW) y futura desarrolladora full-stack.
+Trabajo en una agencia digital desarrollando y manteniendo sitios de cliente en **WordPress, Shopify y Webflow**: maquetación responsive a partir de diseños, funcionalidades a medida en PHP y Liquid, integración de APIs y optimización de rendimiento y SEO técnico.
 
-Actualmente estoy aprendiendo y construyendo proyectos con tecnologías web.
+Aquí subo mis proyectos personales y de formación.
 
----
-
-## 🚀 Proyecto principal
-
-### PodTime
-
-Aplicación web para organizar y seguir podcasts.
-
-Funcionalidades:
-- Guardar podcasts
-- Marcar episodios como escuchados
-- Ver progreso de escucha
-- Buscador y filtros
-
-Tecnologías:
-
-HTML  
-CSS  
-JavaScript  
-PHP  
-MySQL
-
-Repositorio:
-https://github.com/batistamoni/podtime
+📍 Alicante, España
+💼 [LinkedIn](https://www.linkedin.com/in/monicafbatista/) · 📩 fernandesbatistamoni@gmail.com
 
 ---
 
-## 🛠 Tecnologías
+## 🛠️ Tecnologías
 
-Frontend  
-HTML · CSS · JavaScript
-
-Backend  
-PHP · Java · C#
-
-Base de datos  
-MySQL
-
-Herramientas  
-Git · GitHub · Figma · XAMPP
+| | |
+|---|---|
+| **Frontend** | HTML5 · CSS3 · JavaScript · Tailwind CSS |
+| **Backend** | PHP · Liquid · Java · C# |
+| **Bases de datos** | MySQL · SQL |
+| **CMS** | WordPress · Shopify · Webflow |
+| **Herramientas** | Git · GitHub · Docker · Figma · VS Code · XAMPP |
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📌 Proyectos destacados
 
-- Arquitectura backend en PHP
-- Mejores prácticas de bases de datos
-- Desarrollo de aplicaciones web completas
+### 🎧 [PodTime](https://github.com/batistamoni/podtime) — Aplicación web full stack
+
+Gestión de podcasts y seguimiento de episodios escuchados. Proyecto final de ciclo.
+
+- Autenticación de usuarios y control de sesiones
+- Importación automática de podcasts desde feeds RSS
+- Seguimiento de progreso, buscador y sistema de favoritos
+- Arquitectura por capas (MVC) y base de datos MySQL de 6 tablas
+- Consultas preparadas para prevenir inyección SQL
+
+`PHP` `MySQL` `JavaScript` `Tailwind CSS`
+
+### 🎟️ [Imagine Dragons Tickets](https://batistamoni.github.io/imagine-dragons-tickets/) — ▶️ Demo en vivo
+
+Sitio de venta de entradas con landing informativa, tabla de conciertos, validación de formulario en JavaScript y generación dinámica de recibo.
+
+`HTML5` `CSS3` `JavaScript`
+
+### 💫 [Página interactiva con JavaScript](https://batistamoni.github.io/interactive-javascript-ux-demo/) — ▶️ Demo en vivo
+
+Animaciones y manipulación del DOM en JavaScript vanilla, sin dependencias externas.
+
+`HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🎯 Objetivo 2026
+## 🌱 En lo que estoy trabajando
 
-Conseguir mi primera experiencia profesional como desarrolladora web.
-
----
-
-## 📫 Contacto
-
-Email  
-fernandesbatistamoni@gmail.com
-
-<!--
-**batistamoni/batistamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arquitectura backend en PHP y buenas prácticas de bases de datos
+- Rendimiento web (Core Web Vitals) y SEO técnico
+- Entornos de desarrollo con Docker
